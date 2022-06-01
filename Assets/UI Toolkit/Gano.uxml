@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/boton.uss?fileID=7433441132597879392&amp;guid=0a94495203693a54ebfbd1d18e3da9c0&amp;type=3#boton" />
+    <ui:VisualElement class="Btn_perdio" style="height: 327px; width: 590px; justify-content: flex-end; align-items: center; margin-left: 4%; margin-right: 4%; margin-top: 4%; margin-bottom: 5%; padding-bottom: 10%; background-color: rgba(36, 36, 36, 0.62);">
+        <ui:Label text="Ganaste :&apos;)" display-tooltip-when-elided="true" name="Label" style="margin-left: 50px; margin-right: 50px; margin-top: 50px; margin-bottom: 50px; height: 18px; width: 248px; font-size: 50px; -unity-font-style: bold-and-italic; padding-left: 0; padding-right: 0; color: rgba(255, 255, 255, 255);" />
+        <ui:Button text="Menu" display-tooltip-when-elided="true" name="btnmenu" class="mubtn" style="height: 50px; width: 110px; font-size: 25px; -unity-font: url(&apos;project://database/Assets/TextMesh%20Pro/Examples%20&amp;%20Extras/Fonts/Anton.ttf?fileID=12800000&amp;guid=997a43b767814dd0a7642ec9b78cba41&amp;type=3#Anton&apos;); -unity-font-style: bold-and-italic;" />
+    </ui:VisualElement>
+</ui:UXML>

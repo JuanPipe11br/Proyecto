@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/boton.uss?fileID=7433441132597879392&amp;guid=0a94495203693a54ebfbd1d18e3da9c0&amp;type=3#boton" />
+    <ui:VisualElement style="height: 100%; width: 100%; background-color: rgba(0, 0, 0, 0.52); justify-content: center; align-items: center; background-image: url(&apos;project://database/Assets/UI%20Toolkit/dcicixd-0b80f9cc-39b5-4490-ad69-f0d59c2263bd.jpg?fileID=2800000&amp;guid=c7cee5176df631d4abbee61751964312&amp;type=3#dcicixd-0b80f9cc-39b5-4490-ad69-f0d59c2263bd&apos;); color: rgb(255, 255, 255);">
+        <ui:VisualElement style="background-color: rgb(37, 61, 144); height: 60%; width: 35%; border-top-left-radius: 20px; border-bottom-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; align-items: center; justify-content: center; background-image: url(&apos;project://database/Assets/UI%20Toolkit/584a9b3bb080d7616d298777.png?fileID=2800000&amp;guid=df82d8d5adc4a4343856a8e3bcce1621&amp;type=3#584a9b3bb080d7616d298777&apos;);">
+            <ui:Button text="Start Game" display-tooltip-when-elided="true" name="btnstart" class="class" />
+            <ui:Label text="Juan Salamanca &#10;Juan Arcilla" display-tooltip-when-elided="true" style="background-color: rgba(15, 65, 255, 0.72); align-items: flex-end; height: 36px; width: 108px; position: absolute; top: 0; left: 0; right: 0; bottom: 0;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

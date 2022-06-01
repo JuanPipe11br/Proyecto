@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/btnmio.uss?fileID=7433441132597879392&amp;guid=17776626595d08c488ad19821b4d44dc&amp;type=3#btnmio" />
+    <ui:VisualElement class="Btn_perdio" style="height: 379px; width: 757px; justify-content: flex-start; align-items: flex-end; margin-left: 4%; margin-right: 4%; margin-top: 4%; margin-bottom: 5%; padding-bottom: 10%; top: auto;">
+        <ui:Label text="0" display-tooltip-when-elided="true" style="margin-left: 50px; margin-right: 50px; margin-top: 50px; margin-bottom: 50px; height: 6px; width: 36px; font-size: 50px; -unity-font-style: bold-and-italic; padding-left: 0; padding-right: 0; -unity-font: url(&apos;project://database/Assets/TextMesh%20Pro/Examples%20&amp;%20Extras/Fonts/Bangers.ttf?fileID=12800000&amp;guid=5dd49b3eacc540408c98eee0de38e0f1&amp;type=3#Bangers&apos;); color: rgba(226, 226, 226, 255); position: relative; top: auto; left: auto; align-items: auto; justify-content: flex-start; right: auto;" />
+    </ui:VisualElement>
+</ui:UXML>
